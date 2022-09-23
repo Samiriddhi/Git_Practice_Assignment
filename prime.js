@@ -1,8 +1,8 @@
-  
-function prime(ironman){
-     let face=0;
-     for(let i=0;i<ironman;i++){
-       if(i%ironman==0){
+
+function prime(batman){
+     let fac=0;
+     for(let i=0;i<batman;i++){
+       if(i%batman==0){
 	fac++;
     	}
   
@@ -13,5 +13,5 @@ function prime(ironman){
   	}
     	}
 
-prime(13);
+prime(23);
   
