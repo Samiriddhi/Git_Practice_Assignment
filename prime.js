@@ -1,4 +1,4 @@
-  
+
 function prime(batman){
      let fac=0;
      for(let i=0;i<batman;i++){
