@@ -1,8 +1,8 @@
   
-function prime(num){
+function prime(ironman){
      let face=0;
-     for(let i=0;i<num;i++){
-       if(i%num==0){
+     for(let i=0;i<ironman;i++){
+       if(i%ironman==0){
 	fac++;
     	}
   
