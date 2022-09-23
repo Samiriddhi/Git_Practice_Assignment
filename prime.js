@@ -1,7 +1,7 @@
   
 function prime(num){
-     let fac=0;
-     for(let i=1;i<=num;i++){
+     let face=0;
+     for(let i=0;i<num;i++){
        if(i%num==0){
 	fac++;
     	}
